@@ -1,2 +1,2 @@
 <?php
-echo  "hello world";
+echo  "PHP是世界上最好的语言";
